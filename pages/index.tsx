@@ -14,21 +14,21 @@ const VercelAssignment = () => {
               Respond to 25+ support requests via email every day: <br /> While this may sound interesting and I have the ability to do this when there is a requirement, I wouldn’t prefer this often, as it will take a good amount of energy, make me feel exhausted and may lead to burnout. I would rather focus on less and complex tickets and deliver high quality resolutions to the customer.</li>
             <br />
             <li className="list-decimal list-inside">
-              Run ticket review sessions to ensure tone consistency:<br /> When working with developers as our customers, I really focus on the quality of the information provided over the consistency of tone. I believe in tailoring the tone to fit each individual situation that can make our communication more engaging and understanding. So, I prefer to concentrate on the content of our responses rather than a uniform tone across all interactions. While I understand the importance of consistency, I feel that a little flexibility in tone can lead to better support and stronger connections. So, personally I don't engage in this task.
+              Run ticket review sessions to ensure tone consistency:<br /> When working with developers as our customers, I really focus on the quality of the information provided over the consistency of tone. I believe in tailoring the tone to fit each individual situation that can make our communication more engaging and understanding. So, I prefer to concentrate on the content of our responses rather than a uniform tone across all interactions. While I understand the importance of consistency, I feel that a little flexibility in tone can lead to better support and stronger connections. So, personally I don&apost engage in this task.
             </li>
             <br />
             <li className="list-decimal list-inside">
               Analyze hundreds of support tickets to spot trends the product team can use:<br /> Personally, I often find data analysis less interesting, especially when no resources or tools are available and require manual work. As it does not involve customer interaction, this could feel less rewarding compared to direct support.</li>
             <br />
             <li className="list-decimal list-inside">
-              Scheduling time-off coverage and collaborating as part of a growing cohesive support team: <br />While working as a team is important, scheduling can be a hassle. It usually involves a lot of manual work that doesn't directly help me with my career goals, which makes it less enjoyable.
+              Scheduling time-off coverage and collaborating as part of a growing cohesive support team: <br />While working as a team is important, scheduling can be a hassle. It usually involves a lot of manual work that doesn&apost directly help me with my career goals, which makes it less enjoyable.
             </li>
           </ol>
           <br />
           <h3 className="font-bold text-xl">Most Favorite Tasks:</h3><br />
           <ol className="list-decimal list-inside">
             <li className="list-decimal list-inside">
-              Dig Through Logs to Troubleshoot a Customer's Broken Project:<br /> This would be my overall favorite task as it involves problem solving and showcasing the technical skills that allows me to break and fix various challenging problems that the customer comes up with. This way I could also do deep research, learn new tools, troubleshooting methods, products, features etc</li>
+              Dig Through Logs to Troubleshoot a Customer&aposs Broken Project:<br /> This would be my overall favorite task as it involves problem solving and showcasing the technical skills that allows me to break and fix various challenging problems that the customer comes up with. This way I could also do deep research, learn new tools, troubleshooting methods, products, features etc</li>
             <br />
             <li className="list-decimal list-inside">
               Identify, File, and Resolve Bugs in Vercel/Next.js Repos on GitHub: <br />This is a fun task to do as it involves collaboration with the engineering team and getting a chance to contribute to the product improvement. It is always rewarding to see the impact of my work on the enhancement of the product.</li>
@@ -100,7 +100,7 @@ const VercelAssignment = () => {
             <li>
               <span className="font-bold">Cons:</span>
               <ul className="list-disc list-inside ml-4">
-                <li className="list-disc list-inside">Edge Middleware is neither a Node.js nor browser application, which means it doesn't have access to all browser and Node.js APIs.</li>
+                <li className="list-disc list-inside">Edge Middleware is neither a Node.js nor browser application, which means it doesn&apost have access to all browser and Node.js APIs.</li>
                 <li className="list-disc list-inside">Edge Middleware is limited to 5KB per Environment Variable.</li>
                 <li className="list-disc list-inside">Since JavaScript objects have methods to allow some operations on them, there are limitations on the names of Environment Variables to avoid having ambiguous code.</li>
                 <li className="list-disc list-inside">You cannot set non-standard port numbers in the fetch URL (e.g., https://example.com:8080). Only 80 and 443 are allowed, and if set with a non-standard port, then it will be ignored.</li>
@@ -139,7 +139,7 @@ const VercelAssignment = () => {
               <span className="font-bold">Cons:</span>
               <ul className="list-disc list-inside ml-4">
                 <li className="list-disc list-inside">The maximum payload size for the request body or the response body of a Serverless Function is 4.5 MB. If a Serverless Function receives a payload in excess of the limit, it will return an error 413.</li>
-                <li className="list-disc list-inside">Serverless Functions have a maximum duration, meaning that it isn't possible to stream indefinitely.</li>
+                <li className="list-disc list-inside">Serverless Functions have a maximum duration, meaning that it isn&apost possible to stream indefinitely.</li>
               </ul>
             </li>
             <br />
@@ -363,7 +363,7 @@ const VercelAssignment = () => {
       question: "9. What do you think is the most common problem which customers ask Vercel for help with? How would you help customers to overcome this problem, short-term and long-term?",
       answer: (
         <p>
-          The most common problems customers ask Vercel about are related to build errors and deployment issues, based on my observations from public Vercel community discussions. Vercel's customer base includes students, non-developers, and developers, all of whom may face challenges during development and deployment on the platform. These issues can arise due to their limited understanding, incorrect setup, or lack of resources.
+          The most common problems customers ask Vercel about are related to build errors and deployment issues, based on my observations from public Vercel community discussions. Vercel&aposs customer base includes students, non-developers, and developers, all of whom may face challenges during development and deployment on the platform. These issues can arise due to their limited understanding, incorrect setup, or lack of resources.
           <br /><br />
           For short-term, I would help customers overcome their specific problems by providing tailored guidance and resources based on their setup and environment. This could involve analyzing their build logs, checking configurations, and directing them to relevant articles and documentation.
           <br /><br />
