@@ -167,7 +167,7 @@ const VercelAssignment = () => {
 
           However, when I double-checked the transmission details with the customer, they clarified that they had an AWS setup that provided direct internet access for their data center. This meant the packets were routed directly through the AWS network, bypassing the ISP.<br /><br />
 
-          With this new information, I raised a case with AWS, and we identified the issue that is called "Anycast Shift." Basically, the connection was being served by two different AWS Edge Locations simultaneously, which was causing the problem. AWS engineers then applied a traffic engineering policy to mitigate the issue.<br /><br />
+          With this new information, I raised a case with AWS, and we identified the issue that is called &quot;Anycast Shift.&quot; Basically, the connection was being served by two different AWS Edge Locations simultaneously, which was causing the problem. AWS engineers then applied a traffic engineering policy to mitigate the issue.<br /><br />
 
           Although the solution did not originate from my end, this case provided me with valuable learning experiences and helped us uncover a rare issue.
         </p>
@@ -201,7 +201,7 @@ const VercelAssignment = () => {
           <ul>
             <li className="list-decimal list-inside">What specific framework are you using, and what version is it currently?</li>
             <li className="list-decimal list-inside">Is the build failing in your local environment or on the Vercel dashboard?</li>
-            <li className="list-decimal list-inside">What error messages do you see on your screen? If you are running the build locally, please provide the debug logs by using the –debug flag. If the issue is on the Vercel Dashboard, you can click on "View Build Logs" within your project dashboard to access the build logs.</li>
+            <li className="list-decimal list-inside">What error messages do you see on your screen? If you are running the build locally, please provide the debug logs by using the –debug flag. If the issue is on the Vercel Dashboard, you can click on &quot;View Build Logs&quot; within your project dashboard to access the build logs.</li>
             <li className="list-decimal list-inside">Are you encountering any errors when running the application locally? If so, please describe them.</li>
             <li className="list-decimal list-inside">Do you have any documentation that you are referring to for your application?</li>
             <li className="list-decimal list-inside">Is this issue occurring for the first time, or have you faced it in the past?</li>
