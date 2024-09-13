@@ -4,7 +4,7 @@ export default function Index() {
   return (
     <Page>
       <Text variant="h2" className="mb-6">
-        Password-protected page demo
+        Password-protected page test
       </Text>
       <List>
         <li>Username: 4dmin</li>
